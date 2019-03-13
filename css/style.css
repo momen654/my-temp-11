@@ -1,0 +1,501 @@
+
+
+
+@media screen and (min-width: 480px) {
+  
+}
+
+
+
+
+
+
+font-face{
+	
+	font-family:momen;
+	src:url(../fonts/Oswald-Regular.ttf);
+	
+}
+
+*{
+	
+	padding:0px;
+	margin:0px;
+}
+html,body{
+	
+			width:100%;
+			height:auto;
+	
+	
+}
+nav{
+	
+	height:outo;
+	background-color:black
+}
+nav a{
+	display:inline-block;
+	font-size:16px;
+	padding:8px 16px;
+
+}
+nav a:link,nav a:visited{
+	
+	
+	color:white
+}
+nav a:hover,nav a:active{
+	background-color:#f1f1f1;
+	color:black
+
+}
+
+
+nav #icon2{
+	float:right
+}
+#htext{
+
+	height:auto;
+	text-align:center;
+	padding:50px 0px;
+	
+			
+}
+#htext h1{
+	font-weight:bold;
+	font-family:momen ;
+	font-size:48px
+	
+}
+
+
+#htext span{
+	background-color:black;
+	color:white;
+	padding:0px 5px;
+}
+
+header{
+		height:auto;
+		background-color:black;
+		position:relative;
+	
+}
+
+header img{
+	
+	width:100%;
+}
+
+
+.hdiv{
+	position:absolute;
+	top:40%;
+	left:2%;
+	color:white;
+	font-family:basmaf;
+	font-size: 36px;
+	font-family:momen;
+	margin: 10px 0;
+	
+	
+}
+.hdiv button{
+	
+	
+	border:none;
+	padding:20px 30px;
+	background-color:rgba(232,224,224,0.6);
+	color:black;
+	margin: 10px 0;
+	font-size: 20px;
+	
+	
+}
+
+main{
+	height:auto;
+	overflow:auto;
+
+	
+	
+}
+
+main section{
+	display:block;
+	float:left;
+	width:65%;
+	overflow:auto;
+	background-color:#eee;
+}
+
+
+
+.sdiv1{
+	
+	
+		
+		background-color:white;
+		margin-bottom:50px;
+		margin-left:20px ;
+		margin-right:20px;
+		margin-top:20px;
+		
+}
+section .text3{
+	
+	padding-top:10px;
+	margin: 10px 0;
+	font-size: 24px;
+	text-align:center
+	
+}
+section .text4{
+	
+	text-align:center
+}
+section .gggt{
+	
+margin-left:10px
+	
+}
+section p{
+	
+	
+	font-size:15px;
+	
+	
+}
+
+
+
+
+section img{
+	
+	width:95%;	
+	padding-top:10px;
+	padding-bottom:50px;
+	padding-left:15px
+
+}
+section .m-bady{
+	
+	list-style-type:none;
+}
+section .m-bady .itam{
+	
+	padding:20px;
+	margin:0px
+}
+section .m-bady .itam img{
+	
+	width:10%;
+	float:left;
+	display:inline-block;
+	padding-bottom:2%
+}
+section .m-bady .itam .itam-rigt{
+	
+	width:80%;
+	float:right;
+	display:inline-block;
+	padding:20px;
+	
+}
+
+
+section .lbutton{
+	border:none;
+	float:left;
+	background-color:white;
+	color:black;
+	padding:5px;
+	margin-top:20px;	
+	margin-left:15px;
+	margin-bottom:15px
+}
+section .rbutton{
+	border:none;
+	float:right;
+	padding:5px;
+	background-color:black;
+	color:white;
+	padding:5px;
+	margin-top:20px;
+	margin-right:15px;
+	margin-bottom:15px
+
+
+}
+section .clear{
+	clear:both;
+}
+main aside{
+	overflow:auto;
+   height:auto;
+	float:right;
+	width:35%;
+	background-color:#eee;
+	
+}
+aside .img11{
+	width:100%;
+	padding-top:20px;
+	vertical-align: middle;
+	
+}
+aside .{
+	
+	background-color:black;
+	color:white;
+	
+	
+	
+}
+aside .p112.texth4{
+	padding-left:3%;
+	font-size:20px;
+	padding-bottom:10px
+}
+aside .menu .m-title{
+	
+		
+		padding:20px 20px;
+		background-color:black;
+		color:white;
+		font-size:18px;
+		font-weight:bold
+	
+}
+aside .menu .m-body{
+	
+	margin:0px;
+	padding:0px;
+	background-color:white
+}
+aside .menu .m-body .item{
+	
+	margin:0px;
+	
+	
+}
+aside .menu .m-body .item .item-left{
+	
+		width:10%;
+		float:left;
+		display:inline-block;
+		padding-left:10px;
+		padding-top:5px
+		
+	
+}
+aside .menu .m-body .item .item-rigt{
+	
+		width:80%;
+		float:right;
+		display:inline-block;
+		padding:5px
+	
+}
+aside .m-titla1{
+	
+	
+	
+		padding:20px 20px;
+		background-color:black;
+		color:white;
+		font-size:18px;
+		font-weight:bold
+}
+aside .momo{
+	
+	background-color:white;
+	padding-bottom:10px
+}
+aside .mo11{
+	
+	
+	    height:200px;
+		background-color:#eee;
+		color:black;
+		margin-top: 16px;
+		margin-bottom: 5px;
+		position: relative;
+		display: block;
+		margin-left:16px;
+		margin-right:16px
+}
+aside .mo11#cercl{
+	
+	
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		color:#000
+}
+aside .tags{
+		background-color:white;
+		height:auto;
+		
+		
+
+	
+}
+aside .tags .tags-spas .span-tag{
+	
+		padding-bottom:30px;
+		padding-left:2px;
+		padding-right:2px;
+		padding-top:20px;
+		font-size:10px;
+
+}
+aside .tags .tags-spas .span-tag #style1{
+	
+	
+	background-color:black;
+	color:white;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:5px;
+	font-size:12px;
+
+	
+	
+}
+aside .tags .tags-spas .span-tag .style2{
+	
+	
+	background-color:#ccc;
+	margin-left:5px;
+	margin-right:3px;
+	font-size:12px;
+	padding-left:2px;
+	padding-right:2px;
+	padding-top:2px;
+	
+}
+aside #Inspiration{
+	
+	background-color:white;
+	margin-right:10px
+}
+aside #Inspiration .imgggg5{
+	
+	width:43%;
+	padding:10px
+	
+	
+}
+aside #FollowMe{
+	background-color:white;
+	margin-right:10px
+	
+}
+aside #FollowMe .fab1{
+	
+	
+	padding:10px;
+	font-size:22px;
+
+}
+
+aside #FollowMe .fab1 .moaaa:hover,aside #FollowMe .fab1 .moaaa:active{
+	
+	background-color:#f1f1f1
+}	
+aside #Subscribe{
+	
+	
+	background-color:white;
+	
+}
+aside  #Subscribe .Subscribe11 .text44{
+	
+	
+		font-size:12px;
+		padding-left:10px;
+		padding-top:10px;
+		padding-bottom:10px
+}
+aside  #Subscribe .Subscribe11 .kokok{
+	
+	margin-left:12px;
+	padding-bottom:10px
+}
+aside  #Subscribe .Subscribe11 .tttttext{
+	
+	padding-left:5px;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-size:10px
+}
+aside  #Subscribe .Subscribe11 .buttooon{
+	
+	padding-left:140px;
+	padding-right:140px;
+	padding-top:10px;
+	padding-bottom:10px;
+	font-size:10px;
+	background-color:#f44336;
+	border:none
+	
+}
+aside  #Subscribe .Subscribe11 .booooootoon{
+	
+	margin-left:12px;
+	padding-bottom:10px
+}
+
+aside  #Subscribe .Subscribe11 .booooootoon .buttooon:hover{
+	
+	
+	background-color:#c7bebd;
+	color:black
+}
+
+
+
+
+footer .fbutton{
+	
+		
+
+	border:none;
+	font-size:15px;
+	background-color:black;
+	color:white;
+	padding: 15px 30px;
+	margin:20px;
+	
+}
+aside #mena{
+	
+	
+	
+}
+
+footer .fbutton:hover,footer .fbutton:active{
+	
+	background-color:#ccc;
+	color:black
+}
+
+footer p{
+	
+	float:right;
+	margin:30px;
+	padding: 10px 30px;
+	
+	
+	
+}
+
+footer{
+	overflow:auto;	
+	background-color:#616161
+	
+}
